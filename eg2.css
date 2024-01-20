@@ -1,0 +1,22 @@
+body{
+    box-sizing: border-box;
+    margin: 20px;
+    font-family: 'gill sans','gill sans mt',calibri,'trebuchet MS',Times new roman;
+  }
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-Items: right;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color:rgb(5, 5, 37);
+  
+  }
+  .Item{
+    background-color: yellow;
+    padding: 10px;
+    flex: 1;
+   
+   
+  }
+  
